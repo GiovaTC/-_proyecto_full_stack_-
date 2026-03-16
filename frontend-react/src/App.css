@@ -1,0 +1,29 @@
+body {
+
+  font-family: Arial;
+  background: #f4f6f8;
+  text-align: center;
+
+}
+
+.gallery {
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 200px);
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.card img {
+
+  width: 100%;
+  border-radius: 6px;
+}
