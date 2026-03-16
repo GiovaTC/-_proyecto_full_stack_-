@@ -1,5 +1,8 @@
 # -_proyecto_full_stack_- :.
 📦 Proyecto Full Stack:
+
+<img width="2545" height="1038" alt="image" src="https://github.com/user-attachments/assets/851ade2f-59b3-4a5f-b10e-5a9bc72bad10" />    
+
 Dashboard de Galería de Fotos.
 
 Aplicación Full Stack desarrollada con:
